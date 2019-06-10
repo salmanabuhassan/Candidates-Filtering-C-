@@ -1,4 +1,4 @@
-# Simple-Job-Sort-C-
+# Simple-Job-Sort-C++
 Project for intro to programming.
 
 
