@@ -1,4 +1,4 @@
-# Simple-Job-Sort-C++
+# Jobs Candidates Filter-C++
 Project for intro to programming.
 
 
